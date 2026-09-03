@@ -55,3 +55,6 @@ The codebase is split into two main parts:
 
 1. `/agent` **folder** – A LangGraph agent that connects to MCP servers and calls their tools.
 2. `/app` **folder** – A frontend application using CopilotKit for UI and state synchronization.
+
+
+<!-- Security scan triggered at 2026-09-03 23:14:35 -->
